@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:lightblue;color:black;
+
+}
+main h1{color:darkblue;}
+
+footer p{ background-color:white; margin:6px}
+footer{ background-color:pink; padding: 6px}
+
+main a{border: 1px solid grey; color:grey;text-decoration:none;
+    margin:7px;padding:7px;
+}
+main nav{margin:10px;}
+.produkciya{ background-color: rgb(181, 230, 146);}
+.2{ 
+    color:pink;}
